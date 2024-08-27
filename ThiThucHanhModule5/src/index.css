@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+  font-family: 'Lora', serif; /* Sử dụng font chữ từ Google Fonts */
+  font-size: 2.5rem; /* Kích thước chữ lớn */
+  color: #333; /* Màu chữ */
+  font-weight: 700; /* Đậm */
+  text-transform: uppercase; /* Chữ hoa */
+  letter-spacing: 1px; /* Khoảng cách giữa các ký tự */
+}
+.custom-button {
+  font-family: 'Lora', sans-serif !important;
+  font-size: 20px !important; /* Kích thước chữ */
+  font-weight: 700 !important; /* Đậm chữ */
+  border-radius: 4px !important; /* Bo góc nút */
+  padding: 10px 20px !important; /* Khoảng cách bên trong nút */
+}
+table th{
+  font-family: 'Lora', sans-serif !important;
+  font-size: 16px !important;
+}

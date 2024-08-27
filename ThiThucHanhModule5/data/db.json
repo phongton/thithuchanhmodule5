@@ -1,0 +1,110 @@
+{
+  "students": [
+    {
+      "id": 7,
+      "name": "hieu",
+      "address": "quang binh",
+      "class": 2,
+      "point": 9,
+      "date": "2024-01-19"
+    },
+    {
+      "name": "Thanh",
+      "address": "hue",
+      "point": "10",
+      "class": 1,
+      "id": 8,
+      "date": "2024-01-11"
+    },
+    {
+      "name": "phongphongphong",
+      "address": "Huế",
+      "point": 3,
+      "class": 2,
+      "id": 12,
+      "date": "2024-01-12"
+    },
+    {
+      "name": "Phong",
+      "address": "Huedssczxcxcxz",
+      "point": 1,
+      "class": 1,
+      "id": 13,
+      "date": "2024-01-15"
+    },
+    {
+      "name": "Tôn Thất Hoàng Phong",
+      "address": "Huế",
+      "point": 1,
+      "class": 1,
+      "id": 18,
+      "date": "2024-01-14"
+    },
+    {
+      "name": "Tôn Thất Hoàng Phong",
+      "address": "Huế",
+      "point": 1,
+      "class": 2,
+      "date": "2024-08-01",
+      "id": 19
+    },
+    {
+      "name": "Tôn Thất Hoàng Phong",
+      "address": "Huế",
+      "point": 10,
+      "class": 2,
+      "date": "2024-08-26",
+      "id": 20
+    },
+    {
+      "name": "Tôn Thất Hoàng Phong",
+      "address": "Huế",
+      "point": 1,
+      "class": 2,
+      "date": "2024-08-26",
+      "id": 21
+    },
+    {
+      "name": "cuong",
+      "address": "Huế",
+      "point": 1,
+      "class": 2,
+      "date": "2024-08-26",
+      "id": 22
+    },
+    {
+      "name": "quang",
+      "address": "đà nẵng",
+      "point": 1,
+      "class": 2,
+      "date": "2024-08-26",
+      "id": 23
+    },
+    {
+      "name": "Phong",
+      "address": "Huế",
+      "point": 1,
+      "class": 1,
+      "date": "2024-08-27",
+      "id": 24
+    },
+    {
+      "name": "Tôn Thất Hoàng Phong",
+      "address": "Huedssczxcxcxz",
+      "point": 1,
+      "class": 2,
+      "date": "2024-08-27",
+      "id": 25
+    }
+  ],
+  "class": [
+    {
+      "id": 1,
+      "name": "C0324H1"
+    },
+    {
+      "id": 2,
+      "name": "C0424h1"
+    }
+  ]
+}
