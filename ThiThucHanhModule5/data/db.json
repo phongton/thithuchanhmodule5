@@ -1,110 +1,78 @@
 {
-  "students": [
+  "products": [
     {
       "id": 7,
-      "name": "hieu",
-      "address": "quang binh",
-      "class": 2,
-      "point": 9,
-      "date": "2024-01-19"
+      "code": "POD-0001",
+      "name": "Oral medicine 1",
+      "quantity": 1000,
+      "categories": 2,
+      "price": 598000,
+      "date": "2024-01-19",
+      "description": "perfect"
     },
     {
-      "name": "Thanh",
-      "address": "hue",
-      "point": "10",
-      "class": 1,
-      "id": 8,
-      "date": "2024-01-11"
+      "code": "POD-1234",
+      "name": "Oral medicine 2",
+      "categories": 2,
+      "quantity": 1000,
+      "price": 1000000,
+      "description": "not bad",
+      "date": "2024-08-28",
+      "id": 8
     },
     {
-      "name": "phongphongphong",
-      "address": "Huế",
-      "point": 3,
-      "class": 2,
-      "id": 12,
-      "date": "2024-01-12"
+      "code": "PROD-1235",
+      "name": "Oral medicine 3",
+      "categories": 1,
+      "quantity": 100,
+      "price": 100000,
+      "description": "not bad",
+      "date": "2024-08-28",
+      "id": 9
     },
     {
+      "code": "PROD-0003",
+      "name": "Oral medicine 4",
+      "categories": 1,
+      "quantity": 100,
+      "price": 2000000,
+      "description": "ok",
+      "date": "2024-08-28",
+      "id": 10
+    },
+    {
+      "code": "PROD-0005",
       "name": "Phong",
-      "address": "Huedssczxcxcxz",
-      "point": 1,
-      "class": 1,
-      "id": 13,
-      "date": "2024-01-15"
+      "categories": 2,
+      "quantity": 50,
+      "price": 100000,
+      "description": "ok",
+      "date": "2024-08-28",
+      "id": 11
     },
     {
-      "name": "Tôn Thất Hoàng Phong",
-      "address": "Huế",
-      "point": 1,
-      "class": 1,
-      "id": 18,
-      "date": "2024-01-14"
-    },
-    {
-      "name": "Tôn Thất Hoàng Phong",
-      "address": "Huế",
-      "point": 1,
-      "class": 2,
-      "date": "2024-08-01",
-      "id": 19
-    },
-    {
-      "name": "Tôn Thất Hoàng Phong",
-      "address": "Huế",
-      "point": 10,
-      "class": 2,
-      "date": "2024-08-26",
-      "id": 20
-    },
-    {
-      "name": "Tôn Thất Hoàng Phong",
-      "address": "Huế",
-      "point": 1,
-      "class": 2,
-      "date": "2024-08-26",
-      "id": 21
-    },
-    {
-      "name": "cuong",
-      "address": "Huế",
-      "point": 1,
-      "class": 2,
-      "date": "2024-08-26",
-      "id": 22
-    },
-    {
-      "name": "quang",
-      "address": "đà nẵng",
-      "point": 1,
-      "class": 2,
-      "date": "2024-08-26",
-      "id": 23
-    },
-    {
-      "name": "Phong",
-      "address": "Huế",
-      "point": 1,
-      "class": 1,
-      "date": "2024-08-27",
-      "id": 24
-    },
-    {
-      "name": "Tôn Thất Hoàng Phong",
-      "address": "Huedssczxcxcxz",
-      "point": 1,
-      "class": 2,
-      "date": "2024-08-27",
-      "id": 25
+      "code": "PROD-0006",
+      "name": "Oral medicine 6",
+      "categories": 1,
+      "quantity": 100,
+      "price": 100000,
+      "description": "ok",
+      "date": "2024-08-28",
+      "id": 12
     }
   ],
-  "class": [
+  "categories": [
     {
       "id": 1,
-      "name": "C0324H1"
+      "name": "Functional foods"
     },
     {
       "id": 2,
-      "name": "C0424h1"
+      "name": "Medical equipment"
+    },
+    {
+      "id": 3,
+      "name": "Pharmaceuticals"
     }
   ]
 }
